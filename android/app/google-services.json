@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675541831025",
+    "project_id": "cpesproject",
+    "storage_bucket": "cpesproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675541831025:android:87afb0cce40fea84663ad0",
+        "android_client_info": {
+          "package_name": "com.example.cpesproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675541831025-94emctlub2iti9rq660atjj9pfhk468j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6LQ6psWMc-KJ8lI0HLElvZfxYYFwUdmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675541831025-94emctlub2iti9rq660atjj9pfhk468j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
