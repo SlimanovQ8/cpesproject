@@ -36,7 +36,7 @@ class _MyAppState extends State<MyApp> {
     FirebaseMessaging.onMessage.listen((RemoteMessage message) {
       print('Got a message whilst in the foreground!');
       print('Message data: ${message.data}');
-      if (message.data["tag"] == 'CarStatus')
+      if (message.data["tag"] == 'CarStatus ve')
       {
         print('fg');
         showDialog(
